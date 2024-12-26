@@ -24,6 +24,8 @@
 body {
   padding-top: 150px;
   background-color: #eff2f8;
+  width: 100%;
+  aspect-ratio: 16/9;
 }
 body::-webkit-scrollbar {
   display: none;
